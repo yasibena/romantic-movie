@@ -462,9 +462,9 @@ export const moviesData = [
     title: "Far from the madding crowed",
     thumbnail: {
       regular: {
-        small: "https://image.tmdb.org/t/p/original/n01rjzuE1EBvND7zqjlxz3TV6r6.jpg",
-        medium: "https://image.tmdb.org/t/p/original/n01rjzuE1EBvND7zqjlxz3TV6r6.jpg",
-        large: "https://image.tmdb.org/t/p/original/n01rjzuE1EBvND7zqjlxz3TV6r6.jpg",
+        small: "https://cdn.30nama.com/cover/3011786_30NAMA.webp?1637083732",
+        medium: "https://cdn.30nama.com/cover/3011786_30NAMA.webp?1637083732",
+        large: "https://cdn.30nama.com/cover/3011786_30NAMA.webp?1637083732",
       },
     },
     year: 2015,
