@@ -66,13 +66,13 @@ export const moviesData = [
     title: "Persuasion",
     thumbnail: {
       trending: {
-        small: "http://thefilmexperience.net/storage/2022/persuasion-trailer-netflix-1655214983.jpg?__SQUARESPACE_CACHEVERSION=1658769163144",
-        large: "http://thefilmexperience.net/storage/2022/persuasion-trailer-netflix-1655214983.jpg?__SQUARESPACE_CACHEVERSION=1658769163144",
+        small: "https://footofan.com/wp-content/uploads/2022/07/E33jtSMUcAAl-yr.jpg",
+        large: "https://footofan.com/wp-content/uploads/2022/07/E33jtSMUcAAl-yr.jpg",
       },
       regular: {
-        small: "./thumbnails/undiscovered-cities/regular/small.jpg",
-        medium: "./thumbnails/undiscovered-cities/regular/medium.jpg",
-        large: "http://thefilmexperience.net/storage/2022/persuasion-trailer-netflix-1655214983.jpg?__SQUARESPACE_CACHEVERSION=1658769163144",
+        small: "https://footofan.com/wp-content/uploads/2022/07/E33jtSMUcAAl-yr.jpg",
+        medium: "https://footofan.com/wp-content/uploads/2022/07/E33jtSMUcAAl-yr.jpg",
+        large: "https://footofan.com/wp-content/uploads/2022/07/E33jtSMUcAAl-yr.jpg",
       },
     },
     year: 2022,
