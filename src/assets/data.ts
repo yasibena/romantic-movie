@@ -430,9 +430,9 @@ export const moviesData = [
     title: "Little Women",
     thumbnail: {
       regular: {
-        small: "http://thefilmexperience.net/storage/1990s/Little-Women-1994-woods.jpeg?__SQUARESPACE_CACHEVERSION=1635440403042",
-        medium: "http://thefilmexperience.net/storage/1990s/Little-Women-1994-woods.jpeg?__SQUARESPACE_CACHEVERSION=1635440403042",
-        large: "http://thefilmexperience.net/storage/1990s/Little-Women-1994-woods.jpeg?__SQUARESPACE_CACHEVERSION=1635440403042",
+        small: "https://zarfilm.com/wp-content/uploads/2019/11/15little-women1-superJumbo-e1675601525730.jpg",
+        medium: "https://zarfilm.com/wp-content/uploads/2019/11/15little-women1-superJumbo-e1675601525730.jpg",
+        large: "https://zarfilm.com/wp-content/uploads/2019/11/15little-women1-superJumbo-e1675601525730.jpg",
       },
     },
     year: 1994,
